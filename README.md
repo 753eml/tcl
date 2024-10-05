@@ -18,4 +18,6 @@
 
 ### 05/10/2024 20:29:45 - (Minor change) (Script Bug fix) Fixed script executing in other games.
 
+### 05/10/2024 20:39:15 - (Minor change) (Script Bug fix) Fixed script not loading at all, whether in correct or incorrect game.
+
 ### https://753eml.github.io for other info/stuff!
