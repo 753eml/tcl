@@ -20,4 +20,6 @@
 
 ### 05/10/2024 20:39:15 - (Minor change) (Script Bug fix) Fixed script not loading at all, whether in correct or incorrect game.
 
+### 09/10/2024 18:18:00 - (Minor change) (Website Update) Changed Website theme.
+
 ### https://753eml.github.io for other info/stuff!
